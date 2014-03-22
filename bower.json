@@ -6,7 +6,6 @@
     "temp/"
   ],
   "dependencies": {
-    "modernizr": "~2.7.2"
   },
   "devDependencies": {}
 }

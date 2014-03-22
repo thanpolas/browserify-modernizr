@@ -1,4 +1,4 @@
 
-var Modernizr = require('../components/Modernizr/src/Modernizr');
+var Modernizr = require('modernizr/src/Modernizr');
 
 console.log('Modernizr:', !!Modernizr);
