@@ -1,0 +1,12 @@
+{
+  "name": "browserify-modernizr",
+  "version": "0.0.0",
+  "ignore": [
+    "test/",
+    "temp/"
+  ],
+  "dependencies": {
+    "modernizr": "~2.7.2"
+  },
+  "devDependencies": {}
+}

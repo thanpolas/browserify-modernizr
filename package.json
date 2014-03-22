@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "browserify-modernizr",
+  "version": "0.0.0",
+  "main": "lib/browserify-modernizr.js",
+  "description": "The best module ever.",
+  "homepage": "https://github.com/thanpolas/browserify-modernizr",
+  "bugs": "https://github.com/thanpolas/browserify-modernizr/issues",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanpolas/browserify-modernizr"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
