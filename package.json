@@ -19,12 +19,12 @@
       "type": "MIT"
     }
   ],
-  "browserify":{
+  "browserify": {
     "transform": "deamdify"
   },
   "scripts": {},
   "devDependencies": {
-    "deamdify": "~0.1.1",
-    "modernizr": "git://github.com/Modernizr/Modernizr.git#master"
+    "modernizr": "git://github.com/Modernizr/Modernizr.git#master",
+    "deamdify": "git://github.com/patrick-steele-idem/deamdify.git#master"
   }
 }
