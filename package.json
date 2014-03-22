@@ -19,8 +19,8 @@
       "type": "MIT"
     }
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "devDependencies": {
+    "deamdify": "~0.1.1"
   }
 }
